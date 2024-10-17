@@ -1,0 +1,2 @@
+# aws_bedrock_damage_detection
+aws_bedrock_damageparcel_detection
